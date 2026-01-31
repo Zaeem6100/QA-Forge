@@ -15,14 +15,7 @@ QA-Forge/
 │   ├── final/               # Final trained models
 │   └── configs/             # Model configurations
 ├── fine_tune_techniques/    # Fine-tuning implementations
-│   ├── lora/                # LoRA implementation
-│   ├── qlora/               # QLoRA implementation
-│   ├── adapter/             # Adapter layers
-│   └── full_finetune/       # Standard fine-tuning
 └── utils/                   # Utility scripts and helpers
-    ├── data_preprocessing.py
-    ├── model_evaluation.py
-    └── visualization.py
 ```
 
 ## Getting Started
